@@ -335,7 +335,7 @@ Choose **Run All**. Every number in the notebook is generated from the data, and
 
 ## 👤 Author
 
-**[Your Name]** · [LinkedIn](https://linkedin.com/in/username) · [GitHub](https://github.com/username)
+**Herlina** · [LinkedIn](https://linkedin.com/in/username](https://www.linkedin.com/in/herlina-st-cplm/) · [GitHub](https://github.com/herlinahl779-wq)
 
 If this project helped you, consider giving it a ⭐.
 
